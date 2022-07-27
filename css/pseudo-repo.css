@@ -2,3 +2,54 @@ h1{
     padding: 20px;
     background-color:red;
 }
+.div1{
+    background-color: aqua;
+    height:200px;
+    width: 200px;
+}
+.div2{
+    background-color: rgb(81, 0, 255);
+    height:200px;
+    width: 200px;
+}
+.div3{
+    background-color: rgb(255, 0, 85);
+    height:200px;
+    width: 200px;
+}
+.youtube{
+    margin-top: 20px;
+    display:block;
+    text-decoration: none;
+    padding:10px;
+    background-color: aquamarine;
+    text-align: center;
+    height: 40px;
+    width:100px;
+    margin-bottom:20px;
+    border-radius: 10px;
+   
+}
+.google{
+    display:block;
+    display:block;
+    text-decoration: none;
+    padding:10px;
+    background-color: rgb(255, 127, 232);
+    text-align: center;
+    height: 40px;
+    width:100px;
+    margin-bottom:20px;
+    border-radius: 10px;
+}
+.Facebook{
+    display:block;
+    display:block;
+    text-decoration: none;
+    padding:10px;
+    background-color: rgb(168, 255, 127);
+    text-align: center;
+    height: 40px;
+    width:100px;
+    border-radius: 10px;
+}
