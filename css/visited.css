@@ -1,0 +1,10 @@
+h1:hover{
+background-color:red;
+}
+.middel-person:focus{
+color: aqua;
+font-weight:700;
+}
+li:nth-child(2n+1){
+    color: aqua;
+}
