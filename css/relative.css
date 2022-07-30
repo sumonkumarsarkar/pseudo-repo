@@ -1,0 +1,15 @@
+.icon div{
+    display: inline-block;
+    margin-left: 5px;
+   
+}
+#icall{
+    position:absolute;
+    left:50px;
+    top:40px;
+}
+.icon{
+    height:250px;
+    width:800px;
+    border: 1px solid salmon;
+}
